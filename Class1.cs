@@ -6,6 +6,6 @@ namespace ConsoleApp2
 {
     class Class1
     {
-        int p=0;
+        int function() { return 0; }
     }
 }
